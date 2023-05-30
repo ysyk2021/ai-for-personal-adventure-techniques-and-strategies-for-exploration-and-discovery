@@ -10,7 +10,7 @@ The book covers a range of topics related to AI adoption in the travel industry,
 
 By carefully considering the potential benefits and challenges of AI adoption and implementing best practices for AI implementation, travelers can effectively leverage this technology to achieve their goals and have more enjoyable and meaningful travel experiences. AI for Personal Adventure: Techniques and Strategies for Exploration and Discovery with Machine Learning is an essential resource for any traveler seeking to unlock the full potential of AI technology and achieve success in their personal adventures.
 
-MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles about workplace and management topics. He has written hundreds of articles on these topics and is dedicated to sharing his insights and experiences with others who are interested in improving their careers and their businesses.
+MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
 
 
 
