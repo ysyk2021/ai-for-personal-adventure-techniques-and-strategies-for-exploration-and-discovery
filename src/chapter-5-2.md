@@ -1,5 +1,3 @@
-Automated Emergency Alerts and Response using AI
-============================================================================================================
 
 Artificial intelligence (AI) can play a crucial role in improving safety and emergency response during personal adventures and outdoor activities. In this chapter, we will discuss how AI can be used to automate emergency alerts and response, enhancing the safety of individuals engaging in adventurous activities.
 

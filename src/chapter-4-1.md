@@ -1,5 +1,3 @@
-Personalized Learning Paths using AI
-=================================================================================================
 
 Artificial intelligence (AI) can play a significant role in enhancing learning and skill development during personal adventures and outdoor activities. In this chapter, we will discuss how AI can be used to provide personalized learning paths, enabling individuals to develop new skills and knowledge while engaging in adventurous activities.
 
